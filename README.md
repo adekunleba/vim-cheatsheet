@@ -72,6 +72,7 @@ xp       # transpose two letters (delete and paste)
 u        # undo
 Ctrl + r # redo
 :set number #show line numbers
+:Vexplore # Show Netw directory explorer in vertical split
 ```
 
 ## Marking text (visual mode)
