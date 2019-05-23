@@ -71,6 +71,7 @@ xp       # transpose two letters (delete and paste)
 .        # repeat last command
 u        # undo
 Ctrl + r # redo
+:set number #show line numbers
 ```
 
 ## Marking text (visual mode)
